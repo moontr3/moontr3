@@ -15,6 +15,7 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 * [gboard_bot](https://github.com/moontr3/gboard_bot) - Source code of an interesting Discord bot with almost the same functionality as GBoard<br>
 * [emoticon](https://github.com/moontr3/emoticon) - Cool Python module that can create various stickmans with text bubbles<br>
 * [Da-bot](https://moontr3.github.io/dabot) - My Discord Bot written with discord.py that has 100+ various commands<br>
+* [texttoamogus](https://github.com/moontr3/texttoamogus) - Tool that can convert text into amogus text characters<br>
 
 ### 📝 Working on
 * ytd - Youtube video downloader with GUI - written with help of Pygame<br>
