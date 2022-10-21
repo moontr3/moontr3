@@ -26,4 +26,3 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 ![https://www.tiktok.com/@moontr3](https://img.shields.io/static/v1?label=TikTok&message=%40moontr3&color=blue&logo=tiktok)
 ![https://www.youtube.com/channel/UCM4qChD8XYv1etcU4phnJxA](https://img.shields.io/static/v1?label=YouTube&message=moontr3&color=red&logo=youtube)
 ![https://moontr3.itch.io/](https://img.shields.io/static/v1?label=itch.io&message=moontr3&color=yellow&logo=itch.io)<br>
-<i>👆 These labels are clickable</i>
