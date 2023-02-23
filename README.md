@@ -4,6 +4,7 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 ## 👩‍💻 My stack
 * ![Python](https://img.shields.io/static/v1?label=%20&message=Python&color=yellow&logo=python)
 ![BF](https://img.shields.io/static/v1?label=%20&message=Brainfuck&color=blue&logo=brainfuck)
+![C++](https://img.shields.io/static/v1?label=%20&message=CPP&color=darkred&logo=cplusplus)
 ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=darkred&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=blue&logo=css3)<br>
 * ![discord.py](https://img.shields.io/static/v1?label=%20&message=discord.py&color=yellow&logo=discord)
