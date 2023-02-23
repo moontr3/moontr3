@@ -19,7 +19,7 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 * [texttoamogus](https://github.com/moontr3/texttoamogus) - Tool that can convert text into amogus text characters<br>
 
 ### 📝 Working on
-* <s>ytd - Youtube video downloader with GUI - written with help of Pygame</s> Too shitty code, not doing it anymore
+* Alchemy - Lil' game inspired by https://littlealchemy.com/
 
 ## 🔗 Links
 ### Social Media
