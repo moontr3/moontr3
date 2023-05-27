@@ -4,7 +4,7 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 ## 👩‍💻 My stack
 * ![Python](https://img.shields.io/static/v1?label=%20&message=Python&color=yellow&logo=python)
 ![BF](https://img.shields.io/static/v1?label=%20&message=Brainfuck&color=blue&logo=brainfuck)
-![C++](https://img.shields.io/static/v1?label=%20&message=CPP&color=darkred&logo=cplusplus)
+![Lua](https://img.shields.io/static/v1?label=%20&message=Lua&color=darkblue&logo=lua)
 ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=darkred&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=blue&logo=css3)<br>
 * ![discord.py](https://img.shields.io/static/v1?label=%20&message=discord.py&color=yellow&logo=discord)
@@ -19,7 +19,8 @@ I'm a Python programmer and I really like to create useful tools, games and Disc
 * [texttoamogus](https://github.com/moontr3/texttoamogus) - Tool that can convert text into amogus text characters<br>
 
 ### 📝 Working on
-* Alchemy - Lil' game inspired by https://littlealchemy.com/
+* gdr - Background music player written with pygame
+* gdr-se - Editor for creating subtitles for gdr
 
 ## 🔗 Links
 ### Social Media
